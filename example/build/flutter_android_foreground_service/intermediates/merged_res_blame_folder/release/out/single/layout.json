@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout/custom_dialog.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout/notification_template_part_time.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout/ime_base_split_test_activity.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout/ime_secondary_split_test_activity.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout/notification_template_part_chronometer.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout/notification_template_part_chronometer.xml"
+    }
+]

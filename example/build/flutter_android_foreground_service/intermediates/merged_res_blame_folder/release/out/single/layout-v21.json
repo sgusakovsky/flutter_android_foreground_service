@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout-v21/notification_template_icon_group.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout-v21/notification_action.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout-v21/notification_template_custom_big.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/layout-v21/notification_action_tombstone.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-core-1.15.0-18:/layout-v21/notification_action_tombstone.xml"
+    }
+]

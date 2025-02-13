@@ -15,5 +15,10 @@ import io.flutter.embedding.engine.FlutterEngine;
 public final class GeneratedPluginRegistrant {
   private static final String TAG = "GeneratedPluginRegistrant";
   public static void registerWith(@NonNull FlutterEngine flutterEngine) {
+    try {
+      flutterEngine.getPlugins().add(new dk.cachet.flutter_android_foreground_service.FlutterForegroundServicePlugin());
+    } catch (Exception e) {
+      Log.e(TAG, "Error registering plugin flutter_android_foreground_service, dk.cachet.flutter_android_foreground_service.FlutterForegroundServicePlugin", e);
+    }
   }
 }

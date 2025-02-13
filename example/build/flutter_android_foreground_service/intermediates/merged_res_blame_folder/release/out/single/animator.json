@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_open_enter.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_close_exit.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_fade_exit.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_fade_enter.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_open_exit.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "dk.cachet.flutter_android_foreground_service-merged_res-26:/animator/fragment_close_enter.xml",
+        "source": "dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1:/animator/fragment_close_enter.xml"
+    }
+]

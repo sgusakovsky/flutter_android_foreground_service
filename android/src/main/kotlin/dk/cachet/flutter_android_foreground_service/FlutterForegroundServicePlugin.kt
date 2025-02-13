@@ -2,6 +2,14 @@ package dk.cachet.flutter_android_foreground_service
 
 import android.app.Activity
 import androidx.annotation.NonNull
+import io.flutter.embedding.engine.plugins.activity.ActivityAware
+import io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding
+import io.flutter.embedding.engine.plugins.FlutterPlugin
+import io.flutter.plugin.common.EventChannel
+import io.flutter.plugin.common.MethodCall
+import io.flutter.plugin.common.MethodChannel
+import io.flutter.plugin.common.MethodChannel.MethodCallHandler
+import io.flutter.plugin.common.MethodChannel.Result
 
 class FlutterForegroundServicePlugin: FlutterPlugin, MethodCallHandler, ActivityAware {
     private lateinit var methodChannel : MethodChannel

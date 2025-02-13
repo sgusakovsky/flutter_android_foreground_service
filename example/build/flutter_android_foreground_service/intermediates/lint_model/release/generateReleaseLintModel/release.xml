@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="dk.cachet.flutter_android_foreground_service"
+    minSdkVersion="23"
+    targetSdkVersion="23"
+    mergedManifest="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/default_proguard_files/global/proguard-android.txt-8.7.3"
+    partialResultsDir="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/tmp/kotlin-classes/release:/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="dk.cachet.flutter_android_foreground_service"
+      generatedSourceFolders="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/gusakovskyso/.gradle/caches/8.9/transforms/d84a28d5f8efeb1000b553bc1b586c2f/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

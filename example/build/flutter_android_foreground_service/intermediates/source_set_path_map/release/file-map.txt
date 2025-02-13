@@ -1,0 +1,28 @@
+dk.cachet.flutter_android_foreground_service-jetified-profileinstaller-1.3.1-0 /Users/gusakovskyso/.gradle/caches/transforms-3/0806651f9c1d604e89be942329955b7b/transformed/jetified-profileinstaller-1.3.1/res
+dk.cachet.flutter_android_foreground_service-fragment-1.7.1-1 /Users/gusakovskyso/.gradle/caches/transforms-3/24e72457314132462173b39679ad9ff0/transformed/fragment-1.7.1/res
+dk.cachet.flutter_android_foreground_service-jetified-activity-1.8.1-2 /Users/gusakovskyso/.gradle/caches/transforms-3/28cfa27fb8f6ff06a4c8a4a5f08acb1c/transformed/jetified-activity-1.8.1/res
+dk.cachet.flutter_android_foreground_service-lifecycle-runtime-2.7.0-3 /Users/gusakovskyso/.gradle/caches/transforms-3/358af259ee7918fbdbef106779842979/transformed/lifecycle-runtime-2.7.0/res
+dk.cachet.flutter_android_foreground_service-jetified-core-ktx-1.15.0-4 /Users/gusakovskyso/.gradle/caches/transforms-3/4c1b6720e15356edf90e76ec07bb2676/transformed/jetified-core-ktx-1.15.0/res
+dk.cachet.flutter_android_foreground_service-lifecycle-livedata-core-2.7.0-5 /Users/gusakovskyso/.gradle/caches/transforms-3/4dbc64ce5099a36be8aabf446fd5fa2f/transformed/lifecycle-livedata-core-2.7.0/res
+dk.cachet.flutter_android_foreground_service-jetified-core-1.0.0-6 /Users/gusakovskyso/.gradle/caches/transforms-3/5c8eace189ddb00f4231ae7c97c40e1d/transformed/jetified-core-1.0.0/res
+dk.cachet.flutter_android_foreground_service-jetified-tracing-1.2.0-7 /Users/gusakovskyso/.gradle/caches/transforms-3/69937329e053a21471b1acf2b26fe515/transformed/jetified-tracing-1.2.0/res
+dk.cachet.flutter_android_foreground_service-jetified-savedstate-1.2.1-8 /Users/gusakovskyso/.gradle/caches/transforms-3/76e6cd6c177b903cd2d43c7a87d21e17/transformed/jetified-savedstate-1.2.1/res
+dk.cachet.flutter_android_foreground_service-jetified-startup-runtime-1.1.1-9 /Users/gusakovskyso/.gradle/caches/transforms-3/7c1ec6e541e47a4d849ac1ded42daed7/transformed/jetified-startup-runtime-1.1.1/res
+dk.cachet.flutter_android_foreground_service-jetified-annotation-experimental-1.4.1-10 /Users/gusakovskyso/.gradle/caches/transforms-3/9439387b6ca7f4e1a98e284781ccf5fa/transformed/jetified-annotation-experimental-1.4.1/res
+dk.cachet.flutter_android_foreground_service-lifecycle-livedata-2.7.0-11 /Users/gusakovskyso/.gradle/caches/transforms-3/a1d98217b670f8e06da8e7977526169f/transformed/lifecycle-livedata-2.7.0/res
+dk.cachet.flutter_android_foreground_service-jetified-window-1.2.0-12 /Users/gusakovskyso/.gradle/caches/transforms-3/b258469a989b97ddae4999946d754ebb/transformed/jetified-window-1.2.0/res
+dk.cachet.flutter_android_foreground_service-jetified-window-java-1.2.0-13 /Users/gusakovskyso/.gradle/caches/transforms-3/bbe56462549dedfffe8b67cd381a6b03/transformed/jetified-window-java-1.2.0/res
+dk.cachet.flutter_android_foreground_service-jetified-lifecycle-viewmodel-savedstate-2.7.0-14 /Users/gusakovskyso/.gradle/caches/transforms-3/c23635fc0424dc0d98c69ab43b1b8f51/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+dk.cachet.flutter_android_foreground_service-jetified-lifecycle-process-2.7.0-15 /Users/gusakovskyso/.gradle/caches/transforms-3/ccf1d22084f53e4be4d489d571fc8068/transformed/jetified-lifecycle-process-2.7.0/res
+dk.cachet.flutter_android_foreground_service-jetified-lifecycle-livedata-core-ktx-2.7.0-16 /Users/gusakovskyso/.gradle/caches/transforms-3/e303fb4eaee6978289d03913dba9df18/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+dk.cachet.flutter_android_foreground_service-lifecycle-viewmodel-2.7.0-17 /Users/gusakovskyso/.gradle/caches/transforms-3/e961c49ecbc06797aafa7f7a30f2c4b6/transformed/lifecycle-viewmodel-2.7.0/res
+dk.cachet.flutter_android_foreground_service-core-1.15.0-18 /Users/gusakovskyso/.gradle/caches/transforms-3/ec6689f600ffeb4ff6f6d65bf8ef1b08/transformed/core-1.15.0/res
+dk.cachet.flutter_android_foreground_service-core-runtime-2.2.0-19 /Users/gusakovskyso/.gradle/caches/transforms-3/edfcf66d9fdd9f2cdb5d13cb5ae2da68/transformed/core-runtime-2.2.0/res
+dk.cachet.flutter_android_foreground_service-main-20 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/res
+dk.cachet.flutter_android_foreground_service-release-21 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/release/res
+dk.cachet.flutter_android_foreground_service-pngs-22 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/generated/res/pngs/release
+dk.cachet.flutter_android_foreground_service-resValues-23 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/generated/res/resValues/release
+dk.cachet.flutter_android_foreground_service-rs-24 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/generated/res/rs/release
+dk.cachet.flutter_android_foreground_service-mergeReleaseResources-25 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dk.cachet.flutter_android_foreground_service-mergeReleaseResources-26 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dk.cachet.flutter_android_foreground_service-merged_res-27 /Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service/intermediates/merged_res/release

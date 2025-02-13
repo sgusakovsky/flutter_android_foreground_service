@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="dk.cachet.flutter_android_foreground_service" >
+4
+5    <uses-sdk android:minSdkVersion="23" />
+6
+7    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+7-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:4:5-77
+7-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:4:22-74
+8    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+8-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:5:5-77
+8-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:5:22-74
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+9-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:6:5-92
+9-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:6:22-89
+10
+11    <application>
+11-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:8:5-13:19
+12        <service
+12-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:9:9-12:40
+13            android:name="dk.cachet.flutter_android_foreground_service.MediaForegroundService"
+13-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:10:13-51
+14            android:exported="false"
+14-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:12:13-37
+15            android:foregroundServiceType="mediaPlayback" />
+15-->/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/AndroidManifest.xml:11:13-58
+16    </application>
+17
+18</manifest>

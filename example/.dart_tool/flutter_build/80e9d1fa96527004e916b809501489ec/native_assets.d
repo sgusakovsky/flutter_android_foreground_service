@@ -1,0 +1,1 @@
+ /Users/gusakovskyso/Qulix\ Projects/My\ projects/flutter_android_foreground_service/example/.dart_tool/flutter_build/80e9d1fa96527004e916b809501489ec/native_assets.yaml: 

@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android"
+    name=":flutter_android_foreground_service"
+    type="LIBRARY"
+    maven="dk.cachet.flutter_android_foreground_service:flutter_android_foreground_service:1.0-SNAPSHOT"
+    agpVersion="8.7.3"
+    buildFolder="/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/example/build/flutter_android_foreground_service"
+    bootClassPath="/Users/gusakovskyso/Library/Android/sdk/platforms/android-35/android.jar:/Users/gusakovskyso/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>
