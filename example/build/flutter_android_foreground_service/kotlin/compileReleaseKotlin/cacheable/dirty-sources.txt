@@ -1,0 +1,3 @@
+/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/kotlin/dk/cachet/flutter_android_foreground_service/MediaForegroundService.kt
+/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/kotlin/dk/cachet/flutter_android_foreground_service/FlutterForegroundServicePlugin.kt
+/Users/gusakovskyso/Qulix Projects/My projects/flutter_android_foreground_service/android/src/main/kotlin/dk/cachet/flutter_android_foreground_service/NotificationUtils.kt
