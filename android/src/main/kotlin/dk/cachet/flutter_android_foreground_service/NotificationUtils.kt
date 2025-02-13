@@ -1,4 +1,4 @@
-package dk.cachet.flutter_foreground_service
+package dk.cachet.flutter_android_foreground_service
 
 import android.app.Notification
 import android.app.NotificationChannel

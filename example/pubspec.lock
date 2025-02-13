@@ -62,13 +62,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_foreground_service:
+  flutter_android_foreground_service:
     dependency: "direct main"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.4.1"
+    version: "0.5.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter

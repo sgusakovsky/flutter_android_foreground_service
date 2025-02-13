@@ -1,4 +1,4 @@
-group 'dk.cachet.flutter_foreground_service'
+group 'dk.cachet.flutter_android_foreground_service'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -36,7 +36,7 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-    namespace "dk.cachet.flutter_foreground_service"
+    namespace "dk.cachet.flutter_android_foreground_service"
 }
 
 dependencies {

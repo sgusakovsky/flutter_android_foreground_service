@@ -50,7 +50,7 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "flutter_foreground_service",
+      "name": "flutter_android_foreground_service",
       "rootUri": "../../",
       "packageUri": "lib/",
       "languageVersion": "2.17"
@@ -164,7 +164,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2025-02-13T08:35:44.129605Z",
+  "generated": "2025-02-13T10:12:00.480865Z",
   "generator": "pub",
   "generatorVersion": "3.6.2",
   "flutterRoot": "file:///Users/gusakovskyso/tools/flutter",

@@ -1,4 +1,4 @@
-package dk.cachet.flutter_foreground_service
+package dk.cachet.flutter_android_foreground_service
 
 import android.app.Service
 import android.content.Context
@@ -6,9 +6,9 @@ import android.content.Intent
 import android.os.Build
 import android.os.IBinder
 import androidx.core.app.ServiceCompat
-import dk.cachet.flutter_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_NOTIFICATION_ID
-import dk.cachet.flutter_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_TEXT
-import dk.cachet.flutter_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_TITLE
+import dk.cachet.flutter_android_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_NOTIFICATION_ID
+import dk.cachet.flutter_android_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_TEXT
+import dk.cachet.flutter_android_foreground_service.NotificationUtils.Companion.FOREGROUND_SERVICE_TITLE
 
 class MediaForegroundService : Service() {
 

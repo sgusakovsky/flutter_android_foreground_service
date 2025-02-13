@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_foreground_service/flutter_android_foreground_service.dart';
+import 'package:flutter_android_foreground_service/flutter_android_foreground_service.dart';
 
 void main() {
   runApp(MyApp());
@@ -7,7 +7,7 @@ void main() {
 }
 
 void startForegroundService() async {
-  ForegroundService().start();
+  ForegroundService.startService('test title', 'test text');
   debugPrint("Started service");
 }
 
@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   void dispose() {
-    ForegroundService().stop();
+    ForegroundService.stopService();
     super.dispose();
   }
 }
