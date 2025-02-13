@@ -14,16 +14,14 @@ Add the plugin to your pubspec.yaml file:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_foreground_service: ^LATEST_VERSION_HERE
+  flutter_foreground_service: ^0.5.1
 ````
-
-Replace the `LATEST_VERSION_HERE` the latest version number as stated on this page.
 
 ### Step 3
 Import the package into your project
 
 ```dart
-import 'package:flutter_foreground_service/foreground_service.dart';
+import 'package:flutter_android_foreground_service/flutter_android_foreground_service.dart';
 ```
 
 ## Usage
@@ -32,11 +30,11 @@ Check out the `example` tab here on pub.dev to view the plugin in action.
 In essence, the following line of code will start the foreground service:
 
 ````dart
-await ForegroundService().start();
+await ForegroundService.startService('title', 'message');
 ````
 
 To stop the service again, use the following line of code:
 
 ````dart
-await ForegroundService().stop();
+await ForegroundService.stopService();
 ````

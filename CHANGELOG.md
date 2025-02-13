@@ -1,3 +1,7 @@
+## 0.5.1
+
+- Lowered minSdkVersion to 23
+- 
 ## 0.5.0
 
 - Lowered minSdkVersion to 23
