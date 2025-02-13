@@ -1,8 +1,6 @@
 library flutter_android_foreground_service;
 
 import 'dart:async';
-import 'dart:isolate';
-import 'dart:ui';
 import 'dart:io' show Platform;
 
 import 'package:flutter/material.dart';
@@ -27,5 +25,5 @@ class ForegroundService {
       debugPrint("Error: Can only use foreground services on Android!");
     }
   }
-  
+
 }
